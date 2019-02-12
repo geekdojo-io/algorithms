@@ -1,5 +1,8 @@
 # Algorithms
-## list('algorithms').sort() == list('logarithms').sort()
+
+```python
+ list('algorithms').sort() == list('logarithms').sort()
+``` 
 
 
 
