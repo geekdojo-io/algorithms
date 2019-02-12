@@ -1,4 +1,5 @@
-# algorithms
+# Algorithms
+## list('algorithms').sort() == list('logarithms').sort()
 
 
 
